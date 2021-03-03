@@ -1,5 +1,4 @@
+
 ## Front End Portfolio 
-
-#Made with Vuejs and Vuetify
-
+Algunos de mis trabajos:
 https://jennys-portfolio.web.app/
